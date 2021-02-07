@@ -1,0 +1,8 @@
+{
+  "description": "Updated gist description",
+  "files": {
+    "filename": {
+      "content": "Updated gist file content"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "description": "Gist description",
+  "public": true,
+  "files": {
+    "filename": {
+      "content": "Gist file content"
+    }
+  }
+}

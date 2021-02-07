@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "123",
+    "lastName": "Ivanov",
+    "prefixPhone": "+49",
+    "phoneNumber": "15224730470",
+    "email": "talixo.paris.test123",
+    "password": "123QWEasd"
+  },
+  {
+    "firstName": "!@#$%",
+    "lastName": "Ivanov",
+    "prefixPhone": "+49",
+    "phoneNumber": "15224730470",
+    "email": "talixo.paris.test123",
+    "password": "123QWEasd"
+  },
+  {
+    "firstName": "abc123",
+    "lastName": "Ivanov",
+    "prefixPhone": "+49",
+    "phoneNumber": "15224730470",
+    "email": "talixo.paris.test123",
+    "password": "123QWEasd"
+  }
+]

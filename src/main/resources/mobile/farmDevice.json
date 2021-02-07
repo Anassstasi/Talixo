@@ -1,0 +1,7 @@
+{
+  "desiredCapabilities": {
+    "platformName": "Android",
+    "platformVersion": "8.0.0",
+    "deviceName": "SAMSUNG SM-G930F"
+  }
+}
